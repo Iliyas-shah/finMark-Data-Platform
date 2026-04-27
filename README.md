@@ -1,4 +1,3 @@
 # finMark-Data-Platform
 
-# Hello World!
-# Hi
+# Working on creating a finance Market Data Pipeline
